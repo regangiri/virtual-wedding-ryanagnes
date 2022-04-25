@@ -38,14 +38,14 @@ function RSVP() {
       <div className="relative lg:grid lg:grid-cols-6 lg:mx-48">
         <div className="lg:col-span-12 xl:col-span-3 xl:rounded-l-2xl xl:rounded-r-none lg:rounded-t-2xl text-center py-16 bg-primary text-palewhite">
           <h1 className="text-3xl font-typography mb-8 font-semibold">
-            Hotel Atlet Century Park
+            Gereja St. Perawan Maria Diangkat Ke Surga (Katedral)
           </h1>
-          <p>Jl. Pintu Satu Senayan No.1</p>
-          <p className="mb-[35px]"> Kebayoran Baru, Senayan, Jakarta</p>
+          <p>Jl. Katedral No. 7B Ps. Baru,</p>
+          <p className="mb-[35px]"> Kec. Sawah Besar, Central Jakarta</p>
           <div className="relative p-auto">
             <iframe
-              className="relative m-auto lg:w-[30rem] sm:w-[30rem] xs:w-[80px] md:w-[30rem] rounded-md shadow-lg"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3060471101844!2d106.80061801476924!3d-6.223316495495054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f14e81a584db%3A0x83b3bc47fba8c3b!2sHotel%20Atlet%20Century%20Park%2C%20Jl.%20Pintu%20Satu%20Senayan%20No.1%2C%20RT.1%2FRW.3%2C%20Gelora%2C%20Kecamatan%20Tanah%20Abang%2C%20Kota%20Jakarta%20Pusat%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2010270!5e0!3m2!1sen!2sid!4v1640179786237!5m2!1sen!2sid"
+              className="relative m-auto w-60 lg:w-[30rem] sm:w-[30rem] xs:w-[80px] md:w-[30rem] rounded-md shadow-lg"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126940.44243848306!2d106.76835172319953!3d-6.145631522057466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5cef86e21ad%3A0x3ecfda74692fc79!2sJakarta%20Cathedral!5e0!3m2!1sen!2sid!4v1650719641892!5m2!1sen!2sid"
               height="250"
               style={{ border: 0 }}
               loading="lazy"

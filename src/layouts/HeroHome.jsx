@@ -58,11 +58,9 @@ export default function HeroHome() {
                 </span>
               </h1>
               <h1 className="font-typography text-5xl lg:text-6xl py-4 text-secondary text-shadow-lg">
-                Indra & Fidelia
+                Ryan & Agnes
               </h1>
-              <p className="font-serif">
-                26 Februari 2022 | 11:00 WIB (GMT +7)
-              </p>
+              <p className="font-serif">09 May 2022 | 13:00 WIB (GMT +7)</p>
 
               <div className="mt-5  max-w-md mx-auto sm:flex sm:justify-center justify-center md:mt-8 hover:cursor-pointer">
                 <div className="rounded-md  flex justify-center">

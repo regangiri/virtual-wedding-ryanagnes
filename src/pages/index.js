@@ -13,6 +13,7 @@ import Layout from "../layouts/Layout";
 import Footer from "../components/Footer";
 import Livestream from "../layouts/Livestream";
 import Gift from "../layouts/Gift";
+import RSVP from "../layouts/RSVP";
 
 const Home = () => {
   const [isLanding, setIsLanding] = useState(true);
@@ -25,7 +26,7 @@ const Home = () => {
     return (
       <>
         <Head>
-          <title>LOCKEDINFORDEL</title>
+          <title>STORYOFHAPPINESS</title>
           <meta
             name="viewport"
             content="initial-scale=1.0, width=device-width"
@@ -41,9 +42,10 @@ const Home = () => {
       <Navbar />
       <HeroHome />
       <BrideGroom />
-      <OurStory />
+      {/* <OurStory /> */}
       <ImageGallery />
       <Guestbook />
+      <RSVP />
       <Gift />
       <Livestream />
       <Thankyou />

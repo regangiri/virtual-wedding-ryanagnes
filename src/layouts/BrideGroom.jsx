@@ -75,8 +75,11 @@ export default function BrideGroom() {
             animate={brideGroomLayout}
             className="text-center text-sm md:text-base pt-8 font-serif"
           >
-            <p className="pb-4"> Philippians 1 : 3</p>
-            <p>I thank my God every time I remember you.</p>
+            <p className="pb-4"> Collosians 3:14</p>
+            <p>
+              And over all these virtues put on love,
+              <br /> which binds them all together in perfect unity
+            </p>
           </motion.span>
 
           <div
@@ -97,10 +100,14 @@ export default function BrideGroom() {
                 />
               </div>
               <h1 className="font-typography pb-1 text-secondary font-medium text-3xl">
-                Indra Suryadi
+                Ryan Jeff Prasetya, S.Ab., M.M
               </h1>
-              <p className="font-serif text-sm md:text-base">
-                Son of Mr. Bunnady & Mrs. Sumarni
+              <p className="font-serif text-sm md:text-sm">
+                Son of Mr. Roy Hadi Prasetya(†) & Mrs. Grace Wati Dharmansyah(†)
+              </p>
+              <p className="font-serif text-sm md:text-sm">
+                {" "}
+                Grandson of Mrs. Lenny Prasasti
               </p>
               <span className="flex mt-6 flex-row justify-center text-[#FFD1DC] text-sm  md:text-base">
                 <svg
@@ -119,9 +126,9 @@ export default function BrideGroom() {
                   <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
                   <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
                 </svg>
-                <Link href="https://www.instagram.com/indrasuryadi_/">
+                <Link href="https://www.instagram.com/ryan_d_ryozo/">
                   <a target="_blank" rel="noopener noreferrer" className="pl-1">
-                    indrasuryadi_
+                    Ryan Jeff
                   </a>
                 </Link>
               </span>
@@ -142,12 +149,12 @@ export default function BrideGroom() {
                 />
               </div>
               <h1 className="font-typography pb-1 font-medium text-3xl text-secondary">
-                Fidelia Andrean
+                Apt. Agnes Cindy Nathania Usman
               </h1>
-              <p className="font-serif text-sm md:text-base">
-                Youngest Daughter of <br /> Mr. Tjin Ay Fha & Mrs. Suzan Siu
-                Lany
+              <p className="font-serif text-sm md:text-sm">
+                Daughter of Mr. Usman (Theng Kian Phing) & Mrs. Silawati Gozali
               </p>
+              <br />
               <span className="flex mt-6 flex-row justify-center text-[#FFD1DC] text-sm md:text-base">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -165,9 +172,9 @@ export default function BrideGroom() {
                   <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
                   <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
                 </svg>
-                <Link href="https://www.instagram.com/fideliaandrean/">
+                <Link href="https://www.instagram.com/agnescindy95/">
                   <a target="_blank" rel="noopener noreferrer" className="pl-1">
-                    fideliaandrean
+                    Agnes Cindy
                   </a>
                 </Link>
               </span>

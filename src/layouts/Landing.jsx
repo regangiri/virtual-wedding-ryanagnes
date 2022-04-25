@@ -1,7 +1,7 @@
 import { MailOpenIcon } from "@heroicons/react/solid";
 import { useRouter } from "next/router";
 import Image from "next/image";
-import logo from "../../public/static/images/logo-white.png";
+import logo from "../../public/static/images/logo-ryan-agnes-white.png";
 import { motion } from "framer-motion";
 
 export default function Landing({ btnAction }) {
@@ -49,7 +49,7 @@ export default function Landing({ btnAction }) {
                   opacity: 0,
                 },
               }}
-              className="w-44 md:w-52 mt-7 max-w-md mx-auto sm:flex sm:justify-center justify-center md:mt-8"
+              className="w-48 md:w-60 mt-7 max-w-md mx-auto sm:flex sm:justify-center justify-center md:mt-8"
             >
               <Image src={logo} alt="I & F Wedding" />
             </motion.div>

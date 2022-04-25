@@ -3,7 +3,7 @@ import { supabase } from "../lib/supabaseClient";
 export const getGuestData = async () => {
   try {
     let { data, error, status } = await supabase
-      .from("guestbook")
+      .from("guestbook_ryanagnes")
       .select(`name,message`)
       .order("created_at", { ascending: false });
 
@@ -28,9 +28,11 @@ export const sendMessage = async ({ name, message }) => {
       created_at: new Date(),
     };
 
-    let { error } = await supabase.from("guestbook").insert(addGuest, {
-      returning: "minimal", // Don't return the value after inserting
-    });
+    let { error } = await supabase
+      .from("guestbook_ryanagnes")
+      .insert(addGuest, {
+        returning: "minimal", // Don't return the value after inserting
+      });
 
     if (error) {
       throw error;

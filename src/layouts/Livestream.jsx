@@ -94,12 +94,12 @@ function Livestream() {
             className="holy-matrimony-detail text-center font-serif text-base sm:text-2xl"
           >
             <h3>Virtual Holy Matrimony</h3>
-            <h2 className="pb-5">Indra & Fidelia</h2>
-            <p>Saturday, February 26th 2022</p>
-            <p className="pb-5">11.00 WIB - Finish</p>
+            <h2 className="pb-5">Ryan & Agnes</h2>
+            <p>Monday, May 9th 2022</p>
+            <p className="pb-5">13.00 WIB - Finish</p>
 
-            <p>St. Petrus & Paulus Church</p>
-            <p className="pb-6">Jl. Raya Mangga Besar No. 55 - Jakarta Barat</p>
+            <p>Gereja St. Perawan Maria Diangkat Ke Surga (Katedral)</p>
+            <p className="pb-6">Jl. Katedral No. 7B Ps. Baru</p>
           </motion.div>
         </div>
         <motion.div
@@ -107,8 +107,8 @@ function Livestream() {
           className="flex flex-col items-center pb-12 lg:pb-0 w-full sm:w-1/2 video-container mb-5"
         >
           <iframe
-            className="relative m-auto lg:w-[30rem] sm:w-[30rem] xs:w-[80px] my-10 md:w-[30rem] rounded-md shadow-lg"
-            src="https://www.youtube.com/embed/ihI9OU7M4x0"
+            className="relative m-auto w-60 lg:w-[30rem] sm:w-[30rem] xs:w-[80px] my-10 md:w-[30rem] rounded-md shadow-lg"
+            src="https://www.youtube.com/embed/yBxsp9pe4OU"
             height="300"
             style={{ border: 0 }}
             loading="lazy"

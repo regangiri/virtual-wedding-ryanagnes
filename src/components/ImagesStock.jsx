@@ -2,29 +2,31 @@ export const ImagesStock = {
   ourstory:
     "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525540/our-story_lkllr9.jpg",
   ourmoment1:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1641348168/large_img_1_c225350402.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719058/ryanAgnes/FKT_RA_02_069-min_aejoog.jpg",
   ourmoment2:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1641348169/large_img_2_71b84742cd.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719057/ryanAgnes/FKT_RA_01_153-min_t5iheq.jpg",
   ourmoment3:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642515434/pengganti_2_pbl3nk.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719033/ryanAgnes/FKT_RA_01_238-min_nwinoy.jpg",
   ourmoment4:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1641348180/large_img_4_9e80bfce8d.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719037/ryanAgnes/FKT_RA_01_109-min_lpdcqk.jpg",
   ourmoment5:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642515837/our_moments_5_edmo1f.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719013/ryanAgnes/FKT_RA_01_432-min_adg2ii.jpg",
 
   ourmoment6:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1641348171/large_img_6_fb24be03e7.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650718998/ryanAgnes/FKT_RA_01_429-min_d2oueg.jpg",
   ourmoment7:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1643016218/tambahan_momen_1_compressed_lqriva.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719021/ryanAgnes/FKT_RA_01_455-min_i9riqi.jpg",
   ourmoment8:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1643016461/tambahan_momen_2_com_jlz46q.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719057/ryanAgnes/FKT_RA_02_045-min_ml690p.jpg",
   ourmoment9:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1643016697/tambahan_momen_3_com_lszd2h.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719006/ryanAgnes/FKT_RA_01_415-min_gpiw98.jpg",
   groom:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525535/groom_rdk04e.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650902306/ryanAgnes/ryan-cropped_mlq2sj.jpg",
   bride:
-    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525528/bride_ptm276.jpg",
-  qris: "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525536/Qris_l5vkku.jpg",
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650902305/ryanAgnes/agnes-cropped_v0cyvi.jpg",
+  qris: "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650903545/ryanAgnes/qrryan_dtaogh.jpg",
   logoWhite:
     "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525535/logo-white_wzpdft.png",
+  logoPengantin:
+    "https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650718933/ryanAgnes/logo-ryan-agnes_z0h135.png",
 };

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Container from "../components/Container";
-import Logo from "../../public/static/images/logo-white.png";
+import Logo from "../../public/static/images/logo-ryan-agnes-white.png";
 import { useEffect } from "react";
 import { useInView } from "react-intersection-observer";
 import { motion, useAnimation } from "framer-motion";
@@ -79,10 +79,10 @@ function Thankyou() {
             Thank you for join us !
           </motion.p>
           <motion.div animate={iconAnimation}>
-            <div className="w-40 md:w-36 mt-10 max-w-md mx-auto sm:flex sm:justify-center justify-center">
+            <div className="w-64 md:w-60 mt-10 max-w-md mx-auto sm:flex sm:justify-center justify-center">
               <Image src={Logo} alt="I & F Wedding" />
             </div>
-            <h1 className="mt-10 text-2xl text-gray-300">#LockedINforDEL</h1>
+            <h1 className="mt-10 text-2xl text-gray-300">#stoRYofhappiNESs</h1>
           </motion.div>
         </div>
       </Container>

@@ -3,7 +3,7 @@ import shortid from "shortid";
 import { Link } from "react-scroll";
 
 function calculateTimeLeft() {
-  const difference = +new Date(`2022-02-26`) - +new Date();
+  const difference = +new Date(`2022-05-09`) - +new Date();
   let timeLeft = {};
 
   if (difference > 0) {
@@ -60,7 +60,7 @@ export default function Countdown() {
       >
         <span
           suppressHydrationWarning
-          className="text-xl md:text-3xl font-semibold"
+          className="text-xl  md:text-3xl font-semibold"
         >
           {timeLeft[interval] ? timeLeft[interval] : 0}
         </span>

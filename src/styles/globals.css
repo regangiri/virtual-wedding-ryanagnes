@@ -20,7 +20,14 @@ html {
 
 .landing {
   background: linear-gradient(rgba(0, 0, 0, 0.427), rgba(0, 0, 0, 0.4)),
-    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525535/CoupleImage_q66jn2.jpg");
+    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719030/ryanAgnes/FKT_RA_02_003-min_ylhw4g.jpg");
+  background-size: cover; /* or contain depending on what you want */
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.header {
+  background: linear-gradient(rgba(0, 0, 0, 0.427), rgba(0, 0, 0, 0.4)),
+    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719058/ryanAgnes/FKT_RA_02_069-min_aejoog.jpg");
   background-size: cover; /* or contain depending on what you want */
   background-position: center center;
   background-repeat: no-repeat;
@@ -29,24 +36,23 @@ html {
 @media only screen and (max-width: 600px) {
   .landing {
     background: linear-gradient(rgba(0, 0, 0, 0.427), rgba(0, 0, 0, 0.4)),
-      url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525534/landing_wlrnki.jpg");
+      url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719061/ryanAgnes/FKT_RA_02_264-min_rydwud.jpg");
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+  }
+  .header {
+    background: linear-gradient(rgba(0, 0, 0, 0.427), rgba(0, 0, 0, 0.4)),
+      url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719012/ryanAgnes/FKT_RA_01_405-min_ofjfpn.jpg");
     background-size: cover; /* or contain depending on what you want */
     background-position: center center;
     background-repeat: no-repeat;
   }
 }
 
-.header {
-  background: linear-gradient(rgba(0, 0, 0, 0.427), rgba(0, 0, 0, 0.4)),
-    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525534/hero_z0zmzp.jpg");
-  background-size: cover; /* or contain depending on what you want */
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-
 .wishes-box {
   background: linear-gradient(rgba(61, 61, 61, 0.827), rgba(71, 71, 71, 0.8)),
-    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525530/chat-bg_c6uvo3.jpg");
+    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719013/ryanAgnes/FKT_RA_01_432-min_adg2ii.jpg");
   background-size: cover; /* or contain depending on what you want */
   background-position: center center;
   background-repeat: no-repeat;
@@ -80,7 +86,7 @@ html {
 
 .thankyou-container {
   background: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)),
-    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1641348169/large_img_2_71b84742cd.jpg");
+    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650718984/ryanAgnes/FKT_RA_01_195-min_kq5pdq.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -89,7 +95,7 @@ html {
 
 .livestream-container {
   background: linear-gradient(rgba(14, 13, 13, 0.727), rgba(14, 13, 13, 0.7)),
-    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1642525536/thankyou_p0niue.jpg");
+    url("https://res.cloudinary.com/karuna-wedding-org/image/upload/v1650719038/ryanAgnes/FKT_RA_01_273-min_gcwpai.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
