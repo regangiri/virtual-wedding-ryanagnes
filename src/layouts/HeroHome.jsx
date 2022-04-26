@@ -65,7 +65,7 @@ export default function HeroHome() {
               <div className="mt-5  max-w-md mx-auto sm:flex sm:justify-center justify-center md:mt-8 hover:cursor-pointer">
                 <div className="rounded-md  flex justify-center">
                   <Link
-                    href={`https://calendar.google.com/event?action=TEMPLATE&tmeid=NTRkMGRjN3U4OTNhMm5yb2twYmxndmp2bHUgOHByZzZydmltcGU0Yzk0cDUxNzZxa3JsbXNAZw&tmsrc=8prg6rvimpe4c94p5176qkrlms%40group.calendar.google.com`}
+                    href={`https://calendar.google.com/event?action=TEMPLATE&tmeid=NW82NzBwaGdydnNmNmxqYzJ1dTFwN2hhYjcgcmVnYW5naXJpa2FydW5hQG0&tmsrc=regangirikaruna%40gmail.com`}
                   >
                     <a
                       target="_blank"
