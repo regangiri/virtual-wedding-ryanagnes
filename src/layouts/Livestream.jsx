@@ -85,7 +85,7 @@ function Livestream() {
           love and support and hope that you celebrate in your heart with best
           wishes from afar.{" "}
         </p>
-        <p>With all our loves, Indra & Fidelia.</p>
+        <p>With all our loves, Ryan & Agnes.</p>
       </motion.div>
       <div className="pt-12 flex sm:flex-row flex-col justify-center">
         <div className="flex flex-col justify-center w-full sm:w-1/2 items-center  description-container">

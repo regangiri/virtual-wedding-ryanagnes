@@ -45,7 +45,7 @@ const Home = () => {
       {/* <OurStory /> */}
       <ImageGallery />
       <Guestbook />
-      <RSVP />
+      {/* <RSVP /> */}
       <Gift />
       <Livestream />
       <Thankyou />
