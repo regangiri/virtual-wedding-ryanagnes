@@ -107,7 +107,7 @@ function Livestream() {
           className="flex flex-col items-center pb-12 lg:pb-0 w-full sm:w-1/2 video-container mb-5"
         >
           <iframe
-            className="relative m-auto w-60 lg:w-[30rem] sm:w-[30rem] xs:w-[80px] my-10 md:w-[30rem] rounded-md shadow-lg"
+            className="relative m-auto w-full my-10 rounded-md shadow-lg"
             src="https://www.youtube.com/embed/yBxsp9pe4OU"
             height="300"
             style={{ border: 0 }}
