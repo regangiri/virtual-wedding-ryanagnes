@@ -3,9 +3,8 @@ import shortid from "shortid";
 import { Link } from "react-scroll";
 
 function calculateTimeLeft() {
-  const difference = +new Date(`2022-05-09 13:00:00`) - +new Date();
+  const difference = +new Date(`2022/05/09 13:00`) - +new Date();
   let timeLeft = {};
-
   if (difference > 0) {
     timeLeft = {
       days: Math.floor(difference / (1000 * 60 * 60 * 24)),
