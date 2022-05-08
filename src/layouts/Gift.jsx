@@ -9,7 +9,10 @@ import { useAnimation } from "framer-motion";
 
 const Gift = () => {
   const saveFile = () => {
-    saveAs("/static/images/Qris.jpg", "QRIS-Indra_Suryadi.jpg");
+    saveAs(
+      "/static/images/QRIS-Ryan_Jeff_Prasetya.jpg",
+      "QRIS-Ryan_Jeff_Prasetya.jpg"
+    );
   };
 
   const { ref, inView } = useInView();
